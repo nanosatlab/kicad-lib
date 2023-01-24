@@ -25,8 +25,9 @@ Repository of the KiCad Libraries from NSL.
 
 3. KiCad -> Manage Symbol Libraries -> Global Libraries -> Add empty row -> Add path and name to each library folder
 
-Ex.: ![imatge](https://user-images.githubusercontent.com/33161309/214274315-174e8efe-f067-49c7-a250-fc4dde66d397.png)
+Ex.:
 
+![imatge](https://user-images.githubusercontent.com/33161309/214274315-174e8efe-f067-49c7-a250-fc4dde66d397.png)
 
 5. Kicad -> Manage Footprint Libraries -> Global Libraries -> Add empty row -> Add path and name to each library folder
 
