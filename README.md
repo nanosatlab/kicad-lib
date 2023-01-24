@@ -34,7 +34,8 @@ Ex.:
 
 Ex.:
 
-![imatge](https://user-images.githubusercontent.com/33161309/214274817-dc3dd36c-b91c-41e4-8973-d535a1ecfd1a.png)
+![imatge](https://user-images.githubusercontent.com/33161309/214279883-be8d7a30-d2a7-4698-a9a9-e2a65efdd84a.png)
+
 
 
 ET VOILÀ !
