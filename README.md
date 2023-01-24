@@ -21,7 +21,7 @@ Notice that many of the symbols are already included in KiCad libraries, it is p
 
 | Name                     | Path                           |
 |--------------------------|--------------------------------|
-| KICAD6_NSL_DIR    | "path to kicad-nsl-lib folder" |
+| KICAD6_NSL_DIR    | "path to kicad-lib respository folder" |
 
 3. KiCad -> Manage Symbol Libraries -> Global Libraries -> Add empty row -> Add path and name to each library folder
 
