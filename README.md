@@ -15,7 +15,7 @@ Notice that many of the symbols are already included in KiCad libraries, it is p
 - symbols-nsl
 
 ## How to add the libraries to KiCad?
-1. KiCad -> Preferences -> Path COnfiguration
+1. KiCad -> Preferences -> Path Configuration
 2. Add row -> 
 
 
@@ -42,3 +42,5 @@ ET VOILÀ !
 
 
 ## How to add new components to a library?
+
+You can add components at will. In order to push them to the main reposiroty do a push request.
