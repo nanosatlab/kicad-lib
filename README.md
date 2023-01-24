@@ -3,6 +3,15 @@ Repository of the KiCad Libraries from NSL.
 
 ## Library structure
 
+. connector-nsl
+. mcu-nsl
+. miscelaneous-nsl
+. passive-nsl
+. power-nsl
+. rf-nsl
+. sensor-nsl
+. symbols-nsl
+
 ## How to add the libraries to KiCad?
 1. KiCad -> Preferences -> Path COnfiguration
 2. Add:
