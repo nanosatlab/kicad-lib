@@ -14,14 +14,12 @@ Repository of the KiCad Libraries from NSL.
 
 ## How to add the libraries to KiCad?
 1. KiCad -> Preferences -> Path COnfiguration
-2. Add:
+2. Add row:
 
 
 | Name                     | Path                           |
 |--------------------------|--------------------------------|
-| KICAD6_SYMBOL_DIR_NSL    | "path to kicad-nsl-lib folder" |
-| KICAD6_FOOTPRINT_DIR_NSL | "path to kicad-nsl-lib folder" |
-| KICAD6_3DMODEL_DIR_NSL   | "path to kicad-nsl-lib folder" |
+| KICAD6_NSL_DIR    | "path to kicad-nsl-lib folder" |
 
 3. KiCad -> Manage Symbol Libraries -> Global Libraries -> Add empty row -> Add path and name to each library folder
 
