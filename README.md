@@ -1,4 +1,4 @@
-# kicad-libraries-nsl
+# kicad-nsl-lib
 Repository of the KiCad Libraries from NSL.
 
 ## Library structure
