@@ -31,5 +31,12 @@ Ex.:
 
 5. Kicad -> Manage Footprint Libraries -> Global Libraries -> Add empty row -> Add path and name to each library folder
 
+Ex.:
+
+![imatge](https://user-images.githubusercontent.com/33161309/214274817-dc3dd36c-b91c-41e4-8973-d535a1ecfd1a.png)
+
+
+ET VOILÀ !
+
 
 ## How to add new components to a library?
