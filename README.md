@@ -23,5 +23,8 @@ Repository of the KiCad Libraries from NSL.
 | KICAD6_FOOTPRINT_DIR_NSL | "path to kicad-nsl-lib folder" |
 | KICAD6_3DMODEL_DIR_NSL   | "path to kicad-nsl-lib folder" |
 
+3. KiCad -> Manage Symbol Libraries -> Global Libraries -> Add empty row -> Add path and name to each library folder
+4. Kicad -> Manage Footprint Libraries -> Global Libraries -> Add empty row -> Add path and name to each library folder
+
 
 ## How to add new components to a library?
