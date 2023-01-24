@@ -14,7 +14,7 @@ Repository of the KiCad Libraries from NSL.
 
 ## How to add the libraries to KiCad?
 1. KiCad -> Preferences -> Path COnfiguration
-2. Add row:
+2. Add row -> 
 
 
 | Name                     | Path                           |
