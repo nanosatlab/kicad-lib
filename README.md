@@ -3,7 +3,7 @@ Repository of the KiCad Libraries from NSL.
 
 Notice that many of the symbols are already included in KiCad libraries, it is prefereable to use generic symbols instead of custom ones.
 
-You can add components at will. It is good practices that if you create a component that can be useful to others you push it to the repository. To do so do a push request.
+You can add components at will. It is good practices that if you create/modify a component that can be useful to others you push it to the repository. To do so do a push request.
 
 ## Library structure
 
