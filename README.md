@@ -1,5 +1,7 @@
 # kicad-lib
-Repository of the KiCad Libraries from NSL.
+Repository of the KiCad Libraries from NSL. 
+
+Notice that many of the symbols are already included in KiCad libraries, it is prefereable to use generic symbols instead of custom ones.
 
 ## Library structure
 
