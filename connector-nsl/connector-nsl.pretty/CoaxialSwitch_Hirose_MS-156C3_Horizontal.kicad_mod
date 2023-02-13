@@ -73,8 +73,6 @@
     (zone_connect 0) (tstamp e916aeb1-2bda-438f-8521-864e882e2313))
   (pad "" smd rect (at -0.7 1 180) (size 0.4 0.4) (layers "F.Paste")
     (zone_connect 0) (tstamp fc102e6f-c589-4061-8d9a-0255b4ae46ca))
-  (pad "A" smd rect (at 0.96 0) (size 0.48 0.5) (layers "F.Cu" "F.Mask") (tstamp 2d3a472f-31dc-4493-ac8a-fcfcdc4f21c2))
-  (pad "C" smd rect (at -0.96 0) (size 0.48 0.5) (layers "F.Cu" "F.Mask") (tstamp 60e570e5-fb71-446e-8cb4-d2ff17860efc))
   (pad "G" smd custom (at 0 0.815 180) (size 0.35 0.35) (layers "F.Cu" "F.Mask")
     (zone_connect 0)
     (options (clearance outline) (anchor rect))
@@ -107,6 +105,8 @@
           (xy -0.45 -0.435)
         ) (width 0) (fill yes))
     ) (tstamp a37dc7f6-137a-4d35-8158-e28ea1ead979))
+  (pad "I" smd rect (at -0.96 0) (size 0.48 0.5) (layers "F.Cu" "F.Mask") (tstamp 60e570e5-fb71-446e-8cb4-d2ff17860efc))
+  (pad "O" smd rect (at 0.96 0) (size 0.48 0.5) (layers "F.Cu" "F.Mask") (tstamp 2d3a472f-31dc-4493-ac8a-fcfcdc4f21c2))
   (model "${KICAD6_3DMODEL_DIR}/Connector_Coaxial.3dshapes/CoaxialSwitch_Hirose_MS-156C3_Horizontal.wrl" hide
     (offset (xyz 0 0 -0))
     (scale (xyz 1 1 1))
