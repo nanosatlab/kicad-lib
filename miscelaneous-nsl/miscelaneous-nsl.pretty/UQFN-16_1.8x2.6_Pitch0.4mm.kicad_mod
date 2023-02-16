@@ -1,6 +1,6 @@
 (footprint "UQFN-16_1.8x2.6_Pitch0.4mm" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 -2.85) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c1310f3f-6ca9-4ff6-b349-2857c026ad00)

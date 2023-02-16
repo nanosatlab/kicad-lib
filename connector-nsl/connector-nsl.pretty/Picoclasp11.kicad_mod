@@ -66,8 +66,8 @@
   (pad "9" smd rect (at -3 -2.825 270) (size 1.5 0.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 5fb26764-1df8-44ac-8dbb-c893b6bdc990))
   (pad "10" smd rect (at -4 -2.825 270) (size 1.5 0.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 571feb1d-876e-41c9-bbb0-02cc38ba1b08))
   (pad "11" smd rect (at -5 -2.825 270) (size 1.5 0.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp db4cb26d-b6d2-4b65-80dd-bc22545b338c))
-  (pad "MP1" smd rect (at 6.3 1.075 270) (size 1.8 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 0e291f04-229e-47da-add8-f0634e2ed89e))
-  (pad "MP2" smd rect (at -6.3 1.075 270) (size 1.8 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp bcd14cd5-0ee4-4c05-9d46-a8bebe1e4a54))
+  (pad "MP" smd rect (at -6.3 1.075 270) (size 1.8 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp bcd14cd5-0ee4-4c05-9d46-a8bebe1e4a54))
+  (pad "MP" smd rect (at 6.3 1.075 270) (size 1.8 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 0e291f04-229e-47da-add8-f0634e2ed89e))
   (model "${KICAD_NSL_DIR}/connector-nsl/StepFiles/pico-clasp/2023961107.stp"
     (offset (xyz 0 0 -3.2))
     (scale (xyz 1 1 1))

@@ -71,11 +71,6 @@
   (pad "14" smd rect (at 1.275 0.25 90) (size 0.3 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9e2008fd-865a-44d9-98f6-668dcd31aa70))
   (pad "15" smd rect (at 1.275 -0.25 90) (size 0.3 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 999c5766-8c19-410c-a156-e16098a71135))
   (pad "16" smd rect (at 1.275 -0.75 90) (size 0.3 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp af7fa6e0-1930-4fbe-bc6c-97bf22f2dc83))
-  (model "C:\\Users\\stefa\\Desktop\\Master\\NanoSat\\Pocket_Qubes\\Current_Work\\PCB_design\\KiCad\\Library\\SamacSys_Parts.3dshapes\\MMC5983MA.stp"
-    (offset (xyz 0 0.1800000044 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
   (model "${KICAD_NSL_DIR}/sensor-nsl/StepFiles/MMC5983MA.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

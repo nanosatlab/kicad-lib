@@ -9,7 +9,7 @@
       (effects (font (size 1.143 1.143) (thickness 0.152)) (justify left mirror))
     (tstamp c119a366-6a23-41b0-ad95-5e48c3c81466)
   )
-  (fp_text user "ggeae2641e9895d2ae0" (at 0 0 -180) (layer "Cmts.User")
+  (fp_text user "ggeae2641e9895d2ae0" (at 0 0 180) (layer "Cmts.User") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f5bca612-d770-41d7-9f79-d845cb48ec00)
   )
@@ -59,8 +59,8 @@
   (pad "8" smd rect (at -2.5 -2.65 270) (size 1.5 0.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp cc595f1a-5590-47cf-8d76-d0ff60169f1b))
   (pad "9" smd rect (at -3.5 -2.65 270) (size 1.5 0.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 419d6cdf-b278-4395-99ff-0da5f480c9af))
   (pad "10" smd rect (at -4.5 -2.65 270) (size 1.5 0.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 7a3f5fe3-b356-4f75-a501-4a723026b017))
-  (pad "MP1" smd rect (at 5.8 1.25 270) (size 1.8 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 74d332a8-bf9e-4658-9fa3-3f2517e39186))
-  (pad "MP2" smd rect (at -5.8 1.25 270) (size 1.8 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 8915f441-658a-46bb-b7da-77391510e49c))
+  (pad "MP" smd rect (at -5.8 1.25 270) (size 1.8 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 8915f441-658a-46bb-b7da-77391510e49c))
+  (pad "MP" smd rect (at 5.8 1.25 270) (size 1.8 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 74d332a8-bf9e-4658-9fa3-3f2517e39186))
   (model "${KICAD_NSL_DIR}/connector-nsl/StepFiles/pico-clasp/2023961007.stp"
     (offset (xyz 0 0 -3.2))
     (scale (xyz 1 1 1))
