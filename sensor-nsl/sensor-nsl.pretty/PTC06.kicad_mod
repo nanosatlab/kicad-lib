@@ -1,6 +1,6 @@
 (footprint "PTC06" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr smd)
+  (attr through_hole)
   (fp_text reference "REF**" (at 20.8788 6.2724 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 51917382-b440-4318-807c-bef5d075a840)

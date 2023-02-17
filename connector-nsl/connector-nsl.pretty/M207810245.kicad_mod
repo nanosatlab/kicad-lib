@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (descr "M20-7810245-1")
   (tags "Connector")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "J**" (at 5.08 0) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 6a60f329-2979-40ae-8c2b-0dd47d1bba0e)
