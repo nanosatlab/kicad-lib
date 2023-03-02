@@ -101,6 +101,8 @@
     (zone_connect 0) (tstamp 22525128-1b55-4e32-aa02-5412257d82a3))
   (pad "" smd rect (at 1 0 180) (size 0.3 0.4) (layers "F.Paste")
     (zone_connect 0) (tstamp a00023e4-36ef-499e-a612-6735fd563280))
+  (pad "A" smd rect (at -0.96 0) (size 0.48 0.5) (layers "F.Cu" "F.Mask") (tstamp 60e570e5-fb71-446e-8cb4-d2ff17860efc))
+  (pad "C" smd rect (at 0.96 0) (size 0.48 0.5) (layers "F.Cu" "F.Mask") (tstamp 2d3a472f-31dc-4493-ac8a-fcfcdc4f21c2))
   (pad "G" smd custom (at 0 -0.815) (size 0.35 0.35) (layers "F.Cu" "F.Mask")
     (zone_connect 0) (thermal_bridge_angle 45)
     (options (clearance outline) (anchor rect))
@@ -137,8 +139,6 @@
         )
         (width 0) (fill yes))
     ) (tstamp a0f6c3c4-1e2c-43fa-abbf-ad9ab9897a75))
-  (pad "I" smd rect (at -0.96 0) (size 0.48 0.5) (layers "F.Cu" "F.Mask") (tstamp 60e570e5-fb71-446e-8cb4-d2ff17860efc))
-  (pad "O" smd rect (at 0.96 0) (size 0.48 0.5) (layers "F.Cu" "F.Mask") (tstamp 2d3a472f-31dc-4493-ac8a-fcfcdc4f21c2))
   (model "${KICAD_NSL_DIR}/connector-nsl/StepFiles/MS-156C3.step"
     (offset (xyz 16.65 58.03 -1.7))
     (scale (xyz 1 1 1))
