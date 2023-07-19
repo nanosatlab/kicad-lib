@@ -223,4 +223,8 @@
   (lib (name "rf-nsl")(type "KiCad")(uri "${KICAD_NSL_DIR}/rf-nsl/rf-nsl.kicad_sym")(options "")(descr ""))
   (lib (name "sensor-nsl")(type "KiCad")(uri "${KICAD_NSL_DIR}/sensor-nsl/sensor-nsl.kicad_sym")(options "")(descr ""))
   (lib (name "symbols-nsl")(type "KiCad")(uri "${KICAD_NSL_DIR}/symbols-nsl/symbols-nsl.kicad_sym")(options "")(descr ""))
+(lib (name "mcu-nsl")(type "KiCad")(uri "${KICAD_NSL_DIR}/mcu-nsl/mcu-nsl.kicad_sym")(options "")(descr ""))
+(lib (name "mcu-nsl")(type "KiCad")(uri "${KICAD_NSL_DIR}/mcu-nsl/mcu-nsl.kicad_sym")(options "")(descr ""))
+(lib (name "mcu-nsl")(type "KiCad")(uri "${KICAD_NSL_DIR}/mcu-nsl/mcu-nsl.kicad_sym")(options "")(descr ""))
+(lib (name "mcu-nsl")(type "KiCad")(uri "${KICAD_NSL_DIR}/mcu-nsl/mcu-nsl.kicad_sym")(options "")(descr ""))
 )
