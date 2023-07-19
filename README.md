@@ -20,25 +20,10 @@ You can add components at will. It is good practices that if you create/modify a
 1. KiCad -> Preferences -> Path Configuration
 2. Add row -> 
 
+| Name                     | Path                                   |
+|--------------------------|----------------------------------------|
+| KICAD6_NSL_DIR           | "path to kicad-lib respository folder" |
 
-| Name                     | Path                           |
-|--------------------------|--------------------------------|
-| KICAD6_NSL_DIR    | "path to kicad-lib respository folder" |
-
-3. KiCad -> Manage Symbol Libraries -> Global Libraries -> Add empty row -> Add path and name to each library folder
-
-Ex.:
-
-![imatge](https://user-images.githubusercontent.com/33161309/214277205-10214f6f-36db-4ddc-a536-5cdb4c78060d.png)
-
-
-5. Kicad -> Manage Footprint Libraries -> Global Libraries -> Add empty row -> Add path and name to each library folder
-
-Ex.:
-
-![imatge](https://user-images.githubusercontent.com/33161309/214279883-be8d7a30-d2a7-4698-a9a9-e2a65efdd84a.png)
-
-
+3. Execute nsl-conf.sh script
 
 ET VOILÀ !
-
