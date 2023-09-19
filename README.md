@@ -22,7 +22,7 @@ You can add components at will. It is good practices that if you create/modify a
 
 | Name                     | Path                                   |
 |--------------------------|----------------------------------------|
-| KICAD6_NSL_DIR           | "path to kicad-lib respository folder" |
+| KICAD_NSL_DIR           | "path to kicad-lib respository folder" |
 
 3. Execute nsl-conf.sh script
 
