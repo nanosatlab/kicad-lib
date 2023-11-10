@@ -14,7 +14,8 @@ echo "Is the KiCad library path configured and editors launched for first time? 
 read response
 if [ "$response" != "y" ]; then
         echo "Please do this first :)"
-        exit
+        echo "add a path to the kicad-lib folder with name KICAD_NSL_DIR"
+	exit
 fi
 
 echo "Is KiCad config file in default location (~/.config/kicad/7.0/)? [y/n]]"
