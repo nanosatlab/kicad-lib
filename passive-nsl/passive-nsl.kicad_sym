@@ -6,7 +6,7 @@
     (property "Value" "ECS-TXO-2016MV" (at 10.16 -8.89 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "-nsl_passive:ECSTXO201633320TR" (at 17.78 -8.89 0)
+    (property "Footprint" "miscelaneous-nsl:ECX-32" (at 17.78 -8.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
