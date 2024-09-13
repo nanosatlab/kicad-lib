@@ -16,7 +16,7 @@ You can add components at will. It is good practices that if you create/modify a
 - sensor-nsl
 - symbols-nsl
 
-## How to add the libraries to KiCad?
+## How to add the libraries to KiCad (only for Linux)?
 1. KiCad -> Preferences -> Path Configuration
 2. Add row -> 
 
