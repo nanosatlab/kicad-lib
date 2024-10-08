@@ -39,4 +39,6 @@
     (thermal_bridge_angle 45) (tstamp b104116d-c509-44fc-bae2-cc74ddafa867))
   (pad "2" smd roundrect (at 2.4892 -2.9972) (size 5 4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1428571429)
     (thermal_bridge_angle 45) (tstamp 71256699-3d81-4581-a0ad-492a3fe448c8))
+  (pad "3" smd roundrect (at 38.1 -2.9972) (size 5 4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1428571429)
+    (thermal_bridge_angle 45) (tstamp be791393-9263-42b7-a08b-4f2efe544d4f))
 )
