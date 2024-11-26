@@ -1,10 +1,12 @@
 echo "KiCad 7 configuration for UPC-NSL"
 
 #Path to KiCad's symbol table
-PATH_SYM=~/.config/kicad/7.0/sym-lib-table
+PATH_SYM=~/.var/app/org.kicad.KiCad/config/kicad/8.0/sym-lib-table
 
 #Path to KiCad's footrpint table
-PATH_FP=~/.config/kicad/7.0/fp-lib-table
+PATH_FP=~/.var/app/org.kicad.KiCad/config/kicad/8.0/fp-lib-table
+
+
 
 #Test path to kicad-lib
 #PATH_SYM=~/dev/kicad-lib/sym-lib-table
@@ -35,7 +37,7 @@ fi
 
 COUNT="$(grep -i -c miscellaneous-nsl $PATH_SYM)"
 if [ $COUNT == '0' ]; then 
-        sed -i '$i   (lib (name "miscellaneous-nsl")(type "KiCad")(uri "${KICAD_NSL_DIR}/miscelaneous-nsl/miscelaneous-nsl.kicad_sym")(options "")(descr ""))' $PATH_SYM
+        sed -i '$i   (lib (name "miscellaneous-nsl")(type "KiCad")(uri "${KICAD_NSL_DIR}/miscellaneous-nsl/miscellaneous-nsl.kicad_sym")(options "")(descr ""))' $PATH_SYM
 	echo "miscellaneous-nsl symbol library installed"
 else echo "[WARNING]: miscellaneous-nsl symbol library already installed"
 fi
@@ -85,7 +87,7 @@ fi
 
 COUNT="$(grep -i -c miscellaneous-nsl $PATH_FP)"
 if [ $COUNT == '0' ]; then 
-        sed -i '$i   (lib (name "miscellaneous-nsl")(type "KiCad")(uri "${KICAD_NSL_DIR}/miscelaneous-nsl/miscelaneous-nsl.pretty")(options "")(descr ""))' $PATH_FP
+        sed -i '$i   (lib (name "miscellaneous-nsl")(type "KiCad")(uri "${KICAD_NSL_DIR}/miscellaneous-nsl/miscellaneous-nsl.pretty")(options "")(descr ""))' $PATH_FP
 	echo "miscellaneous-nsl footprint library installed"
 else echo "[WARNING]: miscellaneous-nsl footprint library already installed"
 fi

@@ -1,0 +1,241 @@
+(footprint "TL3301-1-Tactile-Switch"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4.6 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "92faf8e2-e967-4c30-ab2b-e4ac98b356e0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "TL3301-1-Tactile-Switch"
+		(at 0.6 6.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "61a2ad9f-303e-4b55-a28e-3d7505d1b177")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at -0.1 0.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f4c8b783-2194-49f1-9bc4-025d748255b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -0.1 0.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "58c04497-0d54-4b62-b1d1-ef908c803996")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -0.1 0.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "11db11de-3db4-4e4c-9d20-45959f97d8db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.225 -3.1)
+		(end -3.225 -3.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27328168-a3cd-419d-8399-661ba803b02f")
+	)
+	(fp_line
+		(start -3.225 3.1)
+		(end -3.225 3.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "84d0bae6-3e4b-4469-9674-779a0702d965")
+	)
+	(fp_line
+		(start -3.225 3.3)
+		(end -1.975 3.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d23aea89-ca11-4c1a-ae06-2985fe9033a6")
+	)
+	(fp_line
+		(start 0.975 -3.3)
+		(end -3.225 -3.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2cd93e11-ecdd-4f26-b1e0-e0ccec45c97e")
+	)
+	(fp_line
+		(start 3.2 -3.3)
+		(end 2 -3.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "daf65958-711a-4855-b341-b2730cf6cc8f")
+	)
+	(fp_line
+		(start 3.2 -3.3)
+		(end 3.2 -3.1)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "932299fe-21fd-4cf6-be73-d705f94840b0")
+	)
+	(fp_line
+		(start 3.2 3.1)
+		(end 3.2 3.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7e85c825-f475-4af8-b92d-d889bede6441")
+	)
+	(fp_line
+		(start 3.2 3.3)
+		(end 2 3.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c2e00b12-4bea-4ca9-b19b-de054da2b0e0")
+	)
+	(fp_circle
+		(center -4.5 2.3)
+		(end -4.2 2.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "f8fc6f59-26f4-4a28-8f0f-940fe4ce781b")
+	)
+	(fp_rect
+		(start -3.9 -3.4)
+		(end 3.9 3.4)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "0ade60bd-d203-4a23-b063-679190a58663")
+	)
+	(fp_rect
+		(start -3 -3)
+		(end 3 3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "72bec186-faa1-4da9-9387-c2f41e1f7ecf")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.5 11.7 0)
+		(layer "F.Fab")
+		(uuid "494dca56-4392-417b-986c-8409a99e218d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.2 5.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "76c8316f-f58b-4a66-aeec-12099db69ec0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.4125 2.25)
+		(size 2.795 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c502d8a0-b1f7-4b30-9092-822716e578a0")
+	)
+	(pad "2" smd rect
+		(at 2.4125 2.25)
+		(size 2.795 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "58726049-e11c-4ac7-a7ed-3594d69b23b9")
+	)
+	(pad "3" smd rect
+		(at -2.4125 -2.25)
+		(size 2.795 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8251e11e-7bee-4fe5-935b-ccb1ca9cacca")
+	)
+	(pad "4" smd rect
+		(at 2.4125 -2.25)
+		(size 2.795 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1958e075-1ea2-4ca4-86f9-98a63d453380")
+	)
+	(model "${KICAD_NSL_DIR}/miscellaneous-nsl/StepFiles/TL3301AF160QJ.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
